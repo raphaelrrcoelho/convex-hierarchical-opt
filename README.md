@@ -1,5 +1,5 @@
-# Research em Metodos--Hierarquicos-e-Convexos
-Neste repositório vamos analisar as principais diferenças existentes entre os métodos que são baseados em otimização hierárquica(cluster) e convexa.
+# Métodos  Hierárquicos e Convexos
+Análise das principais diferenças entre os métodos baseados em otimização hierárquica (cluster) e convexa.
 
 > Convexos:
 - Minimum Volatility
